@@ -1,0 +1,42 @@
+compound_id,name,exactmass,category
+1,Cocaine,303.14712,cocaine
+2,Benzoylecgonine,289.13147,cocaine
+3,Ecgonine,185.10519,cocaine
+4,Ecgonine methyl ester,199.12084,cocaine
+5,Norcocaine,289.13147,cocaine
+6,Cocaethylene,317.16277,cocaine
+7,Levamisole,204.06688,adulterant
+8,Phenacetin,179.09463,adulterant
+9,Lidocaine,234.17325,adulterant
+10,Caffeine,194.08038,adulterant
+11,Paracetamol,151.06333,adulterant
+12,Diltiazem,414.15564,adulterant
+13,Amphetamine,135.10480,amphetamine
+14,Methamphetamine,149.12045,amphetamine
+15,MDMA,193.11028,amphetamine
+16,MDA,179.09463,amphetamine
+17,MDEA,207.12593,amphetamine
+18,Ephedrine,165.11535,precursor-amphetamine
+19,Pseudoephedrine,165.11535,precursor-amphetamine
+20,Phenylacetone (P2P),134.07317,precursor-amphetamine
+21,Phenylacetaldehyde,120.05752,precursor-amphetamine
+22,BMK glycidate,250.08904,precursor-amphetamine
+23,PMK (3,4-MDP2P),192.07858,MDMA precursor
+24,PMK-glycidate,280.09452,MDMA precursor
+25,Safrole,162.06808,MDMA precursor
+26,Piperonal,150.03226,MDMA precursor
+27,2C-B,259.03950,2CB
+28,2C-I,305.02510,2CB
+29,2C-H,181.07898,2CB
+30,Fentanyl,336.20689,opioid
+31,Heroin,369.15819,opioid
+32,Morphine,285.10011,opioid
+33,Tramadol,263.18853,opioid
+34,Methadone,309.20925,opioid
+35,Mephedrone,177.11535,cathinone
+36,MDPV,275.15212,cathinone
+37,Alpha-PVP,231.16232,cathinone
+38,Acetone,58.04187,solvent
+39,Toluene,92.06260,solvent
+40,Benzaldehyde,106.04187,solvent
+41,Formic acid,46.00548,solvent
