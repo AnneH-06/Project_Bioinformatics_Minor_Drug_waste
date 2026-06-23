@@ -93,16 +93,9 @@ blank_cols  <- grep("^blanko|^Bl_", colnames(Rest), ignore.case = TRUE)
 row_means     <- rowMeans(low[, blank_cols + 1], na.rm = TRUE)  # +1 for ID col
 row_means_log <- log2(row_means + 1)
 
-# =============================================================================
-# 4. Blank correction
-# =============================================================================
-# Log2 blank mean subtracted per feature; negative values set to zero
-Rest_corrected              <- Rest - row_means_log
-Rest_corrected[Rest_corrected < 0] <- 0
-write.table(Rest_corrected, "Data_MSDAIL_corrected.txt")
 
 # =============================================================================
-# 5. Median normalisation
+# 4. Median normalisation
 # =============================================================================
 # Not blank-corrected
 sample_idx   <- which(colnames(Rest) %in% Fac$Sample)
@@ -113,16 +106,8 @@ dat.trans2           <- as.data.frame(normalizeMedianValues(as.matrix(Rest_sampl
 row.names(dat.trans2) <- row.names(Rest)
 colnames(dat.trans2)  <- Fac$Sample
 
-# Blank-corrected
-Rest_corr_samples   <- Rest_corrected[, sample_idx]
-dat.trans2_corrected <- as.data.frame(
-  normalizeMedianValues(as.matrix(Rest_corr_samples))
-)
-row.names(dat.trans2_corrected) <- row.names(Rest)
-colnames(dat.trans2_corrected)  <- Fac$Sample
-
 # =============================================================================
-# 6. Boxplots: normalisation check
+# 5. Boxplots: normalisation check
 # =============================================================================
 boxplot(Rest_samples,        main = "Raw data (not blank corrected)",           ylab = "log2 intensity", las = 2, cex.axis = 0.6)
 boxplot(dat.trans2,          main = "Normalised data (not blank corrected)",     ylab = "log2 intensity", las = 2, cex.axis = 0.6)
@@ -130,7 +115,7 @@ boxplot(Rest_corr_samples,   main = "Raw data (blank corrected)",               
 boxplot(dat.trans2_corrected,main = "Normalised data (blank corrected)",         ylab = "log2 intensity", las = 2, cex.axis = 0.6)
 
 # =============================================================================
-# 7. Experimental design (all samples)
+# 6. Experimental design (all samples)
 # =============================================================================
 experimentFactors <- lapply(apply(Fac, 2, split, ""), unlist)
 experimentFactors <- as.data.frame(lapply(experimentFactors, as.factor))
@@ -146,7 +131,7 @@ samples       <- as.character(Groups)
 names(samples) <- Fac$Sample
 
 # =============================================================================
-# 8. MDS: all samples (raw and normalised)
+# 7. MDS: all samples (raw and normalised)
 # =============================================================================
 # Raw
 countDF               <- Rest_samples[, names(samples)]
@@ -171,7 +156,7 @@ glMDSPlot(f.trans2,
           launch = TRUE)
 
 # =============================================================================
-# 9. Layer subset analysis
+# 8. Layer subset analysis
 # =============================================================================
 Fac_layers2 <- read.table("Fac_MSDAIL_layers.txt",
                            header = TRUE, sep = ",")
@@ -220,7 +205,7 @@ glMDSPlot(f.trans2_layers,
           launch = TRUE)
 
 # =============================================================================
-# 10. MDS subset: up to 3 random samples per location group
+# 9. MDS subset: up to 3 random samples per location group
 # =============================================================================
 set.seed(42)
 groups_unique    <- unique(Fac$Place)
