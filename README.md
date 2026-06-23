@@ -21,8 +21,6 @@ metadata/ - Suspect database and metadata
 
 results/ - Figures generated during analysis
 
-manuscript/ - Final manuscript
-
 ## Software Requirements
 
 - R (version 4.3 or higher)
