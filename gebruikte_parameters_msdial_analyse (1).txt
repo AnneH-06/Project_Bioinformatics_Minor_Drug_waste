@@ -1,0 +1,310 @@
+# Project information
+Project start date: 21-4-2026 09:49:13
+Final saved date: 21-4-2026 12:46:22
+MS-DIAL version number: 5.5.260323
+Project folder path: C:\Users\dnassauw\OneDrive - Avans Hogeschool\Documents\Projecten\Drugsafval\data\250606_FEK011_Drugsafval_Positief_Zeno_12min
+Project file path: C:\Users\dnassauw\OneDrive - Avans Hogeschool\Documents\Projecten\Drugsafval\data\250606_FEK011_Drugsafval_Positief_Zeno_12min\Dataset_2026_04_21_11_32_17.mddata
+MS1 data type: Centroid
+MS2 data type: Centroid
+Ion mode: Positive
+Target omics: Metabolomics
+Ionization: ESI
+Machine category: LCMS
+Instrument type: HPLC-ESI-HRMS
+Instrument: Sciex ZenoTOF 7600
+Authors: 
+License: 
+Comment: 
+Msp file path: 
+Lbm file path: 
+Text DB file path: 
+Isotope text DB file path: 
+Compounds library file path for target detection: 
+Compounds library file path for RT correction: 
+Searched adduct ions: [M+H]+,[M+NH4]+,[M+Na]+,[M+CH3OH+H]+,[M+K]+,[M+Li]+,[M+ACN+H]+,[M+H-H2O]+,[M+H-2H2O]+,[M+2Na-H]+,[M+IsoProp+H]+,[M+ACN+Na]+,[M+2K-H]+,[M+DMSO+H]+,[M+2ACN+H]+,[M+IsoProp+Na+H]+,[M-C6H10O4+H]+,[M-C6H10O5+H]+,[M-C6H8O6+H]+,[2M+H]+,[2M+NH4]+,[2M+Na]+,[2M+3H2O+2H]+,[2M+K]+,[2M+ACN+H]+,[2M+ACN+Na]+,[M+2H]2+,[M+H+NH4]2+,[M+H+Na]2+,[M+H+K]2+,[M+ACN+2H]2+,[M+2Na]2+,[M+2ACN+2H]2+,[M+3ACN+2H]2+,[M+3H]3+,[M+2H+Na]3+,[M+H+2Na]3+,[M+3Na]3+
+
+
+# FileID ClassName
+File ID=0: 1
+File ID=1: 1
+File ID=2: 1
+File ID=3: 1
+File ID=4: 1
+File ID=5: 1
+File ID=6: 1
+File ID=7: 1
+File ID=8: 1
+File ID=9: 1
+File ID=10: 1
+File ID=11: 1
+File ID=12: 1
+File ID=13: 1
+File ID=14: 1
+File ID=15: 1
+File ID=16: 1
+File ID=17: 1
+File ID=18: 1
+File ID=19: 1
+File ID=20: 1
+File ID=21: 1
+File ID=22: 1
+File ID=23: 1
+File ID=24: 1
+File ID=25: 1
+File ID=26: 1
+File ID=27: 1
+File ID=28: 1
+File ID=29: 1
+File ID=30: 1
+File ID=31: 1
+File ID=32: 1
+File ID=33: 1
+File ID=34: 1
+File ID=35: 1
+File ID=36: 1
+File ID=37: 1
+File ID=38: 1
+File ID=39: 1
+File ID=40: 1
+File ID=41: 1
+File ID=42: 1
+File ID=43: 1
+File ID=44: 1
+File ID=45: 1
+File ID=46: 1
+File ID=47: 1
+File ID=48: 1
+File ID=49: 1
+File ID=50: 1
+File ID=51: 1
+File ID=52: 1
+File ID=53: 1
+File ID=54: 1
+File ID=55: 1
+File ID=56: 1
+File ID=57: 1
+File ID=58: 1
+File ID=59: 1
+
+
+# FileID AnalysisFileType
+File ID=0: Sample
+File ID=1: Sample
+File ID=2: Sample
+File ID=3: Sample
+File ID=4: Sample
+File ID=5: Sample
+File ID=6: Sample
+File ID=7: Sample
+File ID=8: Sample
+File ID=9: Sample
+File ID=10: Sample
+File ID=11: Blank
+File ID=12: Blank
+File ID=13: Blank
+File ID=14: Blank
+File ID=15: Blank
+File ID=16: Blank
+File ID=17: Blank
+File ID=18: Blank
+File ID=19: Blank
+File ID=20: Blank
+File ID=21: Blank
+File ID=22: Blank
+File ID=23: Blank
+File ID=24: Sample
+File ID=25: Sample
+File ID=26: Sample
+File ID=27: Sample
+File ID=28: Sample
+File ID=29: Sample
+File ID=30: Sample
+File ID=31: Sample
+File ID=32: Sample
+File ID=33: Sample
+File ID=34: Sample
+File ID=35: Sample
+File ID=36: Sample
+File ID=37: Sample
+File ID=38: Sample
+File ID=39: Sample
+File ID=40: Sample
+File ID=41: Sample
+File ID=42: Sample
+File ID=43: Sample
+File ID=44: Sample
+File ID=45: Sample
+File ID=46: Sample
+File ID=47: Sample
+File ID=48: Sample
+File ID=49: Sample
+File ID=50: Sample
+File ID=51: Sample
+File ID=52: Sample
+File ID=53: Sample
+File ID=54: Sample
+File ID=55: Sample
+File ID=56: Sample
+File ID=57: Sample
+File ID=58: Sample
+File ID=59: Sample
+
+
+# Classname order
+Class name=1: 0
+
+
+# Classname ColorBytes
+Class name=1: 0,0,255,255
+
+
+# Export
+Export spectra file format: msp
+Export spectra type: deconvoluted
+Mat file export folder path: 
+Export folder path: C:\Users\dnassauw\OneDrive - Avans Hogeschool\Documents\Projecten\Drugsafval\data\250606_FEK011_Drugsafval_Positief_Zeno_12min
+Height matrix export: True
+Normalized height matrix export: False
+Representative spectra export: False
+Peak ID matrix export: False
+Retention time matrix export: False
+Mass matrix export: False
+MSMS included matrix export: False
+Unique mass matrix export: False
+Peak area matrix export: False
+Parameter export: False
+GNPS export: False
+Molecular networking export: False
+SN matrix export: False
+Export as mztabM format: False
+
+
+# Process parameters
+Process option: All
+Number of threads: 2
+
+
+# Feature detection parameters
+Smoothing method: LinearWeightedMovingAverage
+Smoothing level: 3
+Minimum peak height: 500
+Minimum peak width: 5
+Average peak width: 30
+Mass slice width: 1
+Retention time begin: 0
+Retention time end: 100
+MS1 mass range begin: 0
+MS1 mass range end: 2000
+MS2 mass range begin: 0
+MS2 mass range end: 2000
+MS1 tolerance for centroid: 1
+MS2 tolerance for centroid: 25
+Accuracy type: IsAccurate
+Max charge number: 2
+Considering Br and Cl for isotopes: False
+Exclude mass list: 
+Max isotopes detected in ms1 spectrum: 2
+
+
+# Deconvolution
+Sigma window value: 5
+Amplitude cut off: 0
+Relative amplitude cut off: 0
+Keep isotope range: 5
+Exclude after precursor: True
+Keep original precursor isotopes: False
+Is do andromeda ms2 deconvolution: False
+Andromeda delta: 100
+Andromeda max peaks: 12
+Target CE: 0
+
+
+# Annotation parameter
+Solvent type: CH3COONH4
+Searched lipid class: CAR [M+H]+;LPC [M+H]+;LPC [M+Na]+;LPE [M+H]+;PC [M+H]+;PC [M+Na]+;PE [M+H]+;PE [M+Na]+;PI [M+NH4]+;PI [M+Na]+;PS [M+H]+;PS [M+Na]+;PG [M+NH4]+;BMP [M+NH4]+;HBMP [M+NH4]+;CL [M+NH4]+;EtherLPC [M+H]+;EtherLPE [M+H]+;EtherPC [M+H]+;EtherPE [M+H]+;Sph [M+H]+;DHSph [M+H]+;PhytoSph [M+H]+;SM [M+H]+;SM [M+Na]+;NAE [M+H]+;GPNAE [M+H]+;MGDG [M+NH4]+;DGDG [M+NH4]+;MGMG [M+NH4]+;DGMG [M+NH4]+;EtherMGDG [M+NH4]+;EtherDGDG [M+NH4]+;SHexCer [M+H]+;MG [M+NH4]+;DG [M+NH4]+;DG [M+Na]+;EtherDG [M+NH4]+;TG [M+NH4]+;TG [M+Na]+;EtherTG [M+NH4]+;EtherTG [M+Na]+;CE [M+NH4]+;BRSE [M+NH4]+;CASE [M+NH4]+;SISE [M+NH4]+;STSE [M+NH4]+;AHexCS [M+NH4]+;AHexCS [M-H]-;AHexCS [M+CH3COO]-;AHexCS [M+HCOO]-;AHexBRS [M+NH4]+;AHexBRS [M-H]-;AHexBRS [M+CH3COO]-;AHexBRS [M+HCOO]-;AHexCAS [M+NH4]+;AHexCAS [M-H]-;AHexCAS [M+CH3COO]-;AHexCAS [M+HCOO]-;AHexSIS [M+NH4]+;AHexSIS [M-H]-;AHexSIS [M+CH3COO]-;AHexSIS [M+HCOO]-;AHexSTS [M+NH4]+;AHexSTS [M-H]-;AHexSTS [M+CH3COO]-;AHexSTS [M+HCOO]-;SHex [M+NH4]+;SSulfate [M+NH4]+;BASulfate [M+NH4]+;SHex [M+HCOO]-;SHex [M+CH3COO]-;SSulfate [M-H]-;BASulfate [M-H]-;CoQ [M+H]+;Vitamin_D [M+H]+;Vitamin_D [M+Na]+;Vitamin_E [M-H]-;Vitamin_E [M+CH3COO]-;Vitamin_E [M+HCOO]-;VAE [M+H]+;VAE [M+Na]+;BileAcid [M-H]-;BileAcid [M+CH3COO]-;DCAE [M-H]-;GDCAE [M-H]-;GLCAE [M-H]-;TDCAE [M-H]-;TLCAE [M-H]-;DCAE [M+NH4]+;GDCAE [M+NH4]+;GLCAE [M+NH4]+;TDCAE [M+NH4]+;TLCAE [M+NH4]+;FA [M-H]-;FAHFA [M-H]-;NAGly [M-H]-;NAGly [M+H]+;NAGly [M+NH4]+;NAGlySer [M-H]-;NAGlySer [M+H]+;NAGlySer [M+NH4]+;NAOrn [M+H]+;NATau [M+H]+;NATau [M+NH4]+;NATau [M-H]-;SL [M-H]-;SL [M+H]+;SL [M+NH4]+;LPC [M+CH3COO]-;LPC [M+HCOO]-;LPC [M+HCO3]-;LPE [M-H]-;LPS [M-H]-;LPG [M-H]-;LPI [M-H]-;LPA [M-H]-;PA [M-H]-;PC [M+CH3COO]-;PC [M+HCOO]-;PC [M+HCO3]-;PE [M-H]-;PG [M-H]-;PI [M-H]-;PS [M-H]-;OxPC [M+CH3COO]-;OxPC [M+HCOO]-;OxPC [M+HCO3]-;OxPE [M-H]-;OxPG [M-H]-;OxPS [M-H]-;OxPI [M-H]-;EtherOxPC [M+CH3COO]-;EtherOxPC [M+HCOO]-;EtherOxPC [M+HCO3]-;EtherOxPE [M-H]-;PMeOH [M-H]-;PEtOH [M-H]-;HBMP [M-H]-;LNAPE [M-H]-;LNAPS [M-H]-;CL [M-H]-;CL [M-2H]2-;DLCL [M-H]-;MLCL [M-H]-;EtherPC [M+CH3COO]-;EtherPC [M+HCOO]-;EtherPC [M+HCO3]-;EtherPE [M-H]-;EtherPS [M-H]-;EtherPI [M-H]-;EtherPG [M-H]-;EtherLPC [M+CH3COO]-;EtherLPC [M+HCOO]-;EtherLPC [M+HCO3]-;EtherLPE [M-H]-;EtherLPG [M-H]-;MGDG [M+CH3COO]-;MGDG [M+HCOO]-;DGDG [M+CH3COO]-;DGDG [M+HCOO]-;MGMG [M+CH3COO]-;MGMG [M+HCOO]-;DGMG [M+CH3COO]-;DGMG [M+HCOO]-;EtherMGDG [M+CH3COO]-;EtherMGDG [M+HCOO]-;EtherDGDG [M+CH3COO]-;EtherDGDG [M+HCOO]-;EtherSMGDG [M-H]-;SMGDG [M-H]-;SM [M+CH3COO]-;SM [M+HCOO]-;SM [M+HCO3]-;Cer_NS [M+H]+;Cer_NS [M+H-H2O]+;Cer_NS [M+Na]+;Cer_NS [M-H]-;Cer_NS [M+HCOO]-;Cer_NS [M+CH3COO]-;Cer_NDS [M+H]+;Cer_NDS [M+H-H2O]+;Cer_NDS [M+Na]+;Cer_NDS [M-H]-;Cer_NDS [M+HCOO]-;Cer_NDS [M+CH3COO]-;Cer_AS [M-H]-;Cer_AS [M+HCOO]-;Cer_AS [M+CH3COO]-;Cer_ADS [M-H]-;Cer_ADS [M+HCOO]-;Cer_ADS [M+CH3COO]-;Cer_BS [M-H]-;Cer_BS [M+HCOO]-;Cer_BS [M+CH3COO]-;Cer_BDS [M-H]-;Cer_BDS [M+HCOO]-;Cer_BDS [M+CH3COO]-;Cer_NP [M-H]-;Cer_NP [M+HCOO]-;Cer_NP [M+CH3COO]-;Cer_NP [M+H]+;Cer_NP [M+H-H2O]+;Cer_EOS [M+H]+;Cer_EOS [M+H-H2O]+;Cer_EOS [M-H]-;Cer_EOS [M+HCOO]-;Cer_EOS [M+CH3COO]-;Cer_EODS [M-H]-;Cer_EODS [M+HCOO]-;Cer_EODS [M+CH3COO]-;Cer_AP [M+H]+;Cer_AP [M+H-H2O]+;Cer_AP [M-H]-;Cer_AP [M+HCOO]-;Cer_AP [M+CH3COO]-;Cer_HS [M+H]+;Cer_HS [M+H-H2O]+;Cer_HDS [M+H]+;Cer_HDS [M+H-H2O]+;Cer_EBDS [M+HCOO]-;Cer_EBDS [M+CH3COO]-;HexCer_NS [M+H]+;HexCer_NS [M+H-H2O]+;HexCer_NS [M-H]-;HexCer_NS [M+HCOO]-;HexCer_NS [M+CH3COO]-;HexCer_NDS [M+H]+;HexCer_NDS [M+H-H2O]+;HexCer_NDS [M-H]-;HexCer_NDS [M+HCOO]-;HexCer_NDS [M+CH3COO]-;HexCer_AP [M+H]+;HexCer_AP [M+H-H2O]+;HexCer_AP [M-H]-;HexCer_AP [M+HCOO]-;HexCer_AP [M+CH3COO]-;HexCer_EOS [M+H]+;HexCer_EOS [M+H-H2O]+;HexCer_EOS [M-H]-;HexCer_EOS [M+HCOO]-;HexCer_EOS [M+CH3COO]-;HexCer_HS [M+H]+;HexCer_HS [M+H-H2O]+;HexCer_HS [M-H]-;HexCer_HS [M+HCOO]-;HexCer_HS [M+CH3COO]-;HexCer_HDS [M+H]+;HexCer_HDS [M+H-H2O]+;HexCer_HDS [M-H]-;HexCer_HDS [M+HCOO]-;HexCer_HDS [M+CH3COO]-;Hex2Cer [M+H]+;Hex2Cer [M+HCOO]-;Hex2Cer [M+CH3COO]-;Hex3Cer [M+H]+;Hex3Cer [M+HCOO]-;Hex3Cer [M+CH3COO]-;AHexCer [M-H]-;AHexCer [M+HCOO]-;AHexCer [M+CH3COO]-;AHexCer [M+H]+;AHexCer [M+H-H2O]+;ASM [M+H]+;ASM [M+HCOO]-;ASM [M+CH3COO]-;SHexCer [M-H]-;OxFA [M-H]-;MMPE [M+H]+;MMPE [M-H]-;DMPE [M-H]-;DMPE [M+H]+;EGSE [M+H]+;EGSE [M+NH4]+;EGSE [M+Na]+;DEGSE [M+H]+;DEGSE [M+NH4]+;DEGSE [M+Na]+;DSMSE [M+NH4]+;ST [M+H]+;ST [M+NH4]+;ST [M+Na]+;ST [M+H-H2O]+;OxTG [M+NH4]+;TG_EST [M+NH4]+;MIPC [M-H]-;MIPC [M+H]+;LCAE [M-H]-;LCAE [M+NH4]+;KLCAE [M-H]-;KLCAE [M+NH4]+;KDCAE [M-H]-;KDCAE [M+NH4]+;NAE [M+HCOO]-;NAE [M+CH3COO]-;GPNAE [M-H]-;GM1 [M-H]-;GM1 [M-2H]2-;GM3 [M-H]-;GM3 [M-2H]2-;GD1a [M-H]-;GD1a [M-2H]2-;GD1b [M-H]-;GD1b [M-2H]2-;GD2 [M-H]-;GD2 [M-2H]2-;GD3 [M-H]-;GD3 [M-2H]2-;GQ1b [M-2H]2-;GT1b [M-2H]2-;NGcGM3 [M-H]-;GM1 [M+H]+;GM1 [M+2H]2+;GM1 [M+2NH4]2+;GM3 [M+NH4]+;GD1a [M+2H]2+;GD1a [M+2NH4]2+;GD1b [M+2H]2+;GD1b [M+2NH4]2+;GQ1b [M+2H]2+;GQ1b [M+2NH4]2+;GT1b [M+2H]2+;GT1b [M+2NH4]2+;NGcGM3 [M+H]+;NGcGM3 [M+NH4]+
+
+
+# Retention index dictionary information
+
+
+# Alignment parameters
+Alignment reference file ID: 10
+Retention time tolerance for alignment: 1
+Retention time factor for alignment: 5
+Spectrum similarity tolerance for alignment: 0,8
+Spectrum similarity factor for alignment: 0,5
+MS1 tolerance for alignment: 5
+MS1 factor for alignment: 5
+Force insert peaks in gap filling: True
+
+
+# Filtering
+Peak count filter: 0
+N percent detected in one group: 0
+Remove feature based on peak height fold-change: False
+Blank filtering: SampleMaxOverBlankAve
+Sample max / blank average: 5
+Sample average / blank average: 5
+Keep reference matched metabolites: True
+Keep suggested metabolites: False
+Keep removable features and assigned tag for checking: True
+Replace true zero values with 1/2 of minimum peak height over all samples: False
+
+
+# Retention time correction
+Execute RT correction: False
+RT correction with smoothing for RT diff: False
+User setting intercept: 0
+RT diff calc method: SampleMinusSampleAverage
+Interpolation method: Linear
+Extrapolation method (begin): UserSetting
+Extrapolation method (end): LastPoint
+Internal standards for RT alignment: 
+
+
+# Isotope tracking setting
+Tracking isotope label: False
+Set fully labeled reference file: False
+Non labeled reference ID: 0
+Fully labeled reference ID: 0
+Isotope tracking dictionary ID: 0
+
+
+# CorrDec settings
+CorrDec execute: True
+CorrDec MS2 tolerance: 0,01
+CorrDec minimum MS2 peak height: 1000
+CorrDec minimum number of detected samples: 3
+CorrDec exclude highly correlated spots: 0,9
+CorrDec minimum correlation coefficient (MS2): 0,7
+CorrDec margin 1 (target precursor): 0,2
+CorrDec margin 2 (coeluted precursor): 0,1
+CorrDec minimum detected rate: 0,5
+CorrDec minimum MS2 relative intensity: 2
+CorrDec remove peaks larger than precursor: True
+
+DataBaseID: Database_Project_Drugsafval
+AnnotationMethod: Database_Project_Drugsafval_FEK2025
+MassRangeBegin: 0,00000
+MassRangeEnd: 2000,00000
+RtTolerance: 100,00
+RiTolerance: 100,000
+CcsTolerance: 20,00
+Ms1Tolerance: 1,00000
+Ms2Tolerance: 25,00000
+RelativeAmpCutoff: 0,000
+AbsoluteAmpCutoff: 0
+WeightedDotProductCutOff: 0,600
+SimpleDotProductCutOff: 0,600
+ReverseDotProductCutOff: 0,800
+MatchedPeaksPercentageCutOff: 0,250
+AndromedaScoreCutOff: 0,100
+TotalScoreCutoff: 0,800
+MinimumSpectrumMatch: 3,000
+IsUseTimeForAnnotationFiltering: False
+IsUseTimeForAnnotationScoring: False
+IsUseCcsForAnnotationFiltering: False
+IsUseCcsForAnnotationScoring: False
+
+DataBaseID: MS-FINDER
+
